@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... Haxe
 - 💞️ I’m looking to collaborate on ... an FNF mod (tba)
 - 📫 How to reach me ... https://linktr.ee/AstroNot_02
+- 👑 Runner-up for the 2022 World Paper Architect Awards
 
 <!---
 astronot02/astronot02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
